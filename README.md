@@ -14,7 +14,7 @@ date: "04/01/2022"
 |SALEM ALI          |
 
 ---
-###Overview on project:
+Overview on project:
 
 We are here making trading strategies of top 5 cryptos they are Bitcoin, Ethereum, USDT Tether, USD Coin and Binance Coin with relationship with macroeconomic variable they are Federal fund interest rate, dallor exchnage rate, and S&P 500 index. Here our main aim is to see the effect of macroeconomic variables on trading of top 5 cryptos and we have calculate risk factor related to large cap cryptos trading.
 
