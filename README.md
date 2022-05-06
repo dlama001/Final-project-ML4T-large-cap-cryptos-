@@ -32,6 +32,17 @@ Instruments use for trading(Top 5 large-cap Cryptos) have used here as our main 
 Data reported time : 04/05/2022, 14:20
 Data source: https://coinmarketcap.com/
 
+---
+
+Macroeconomic variables use for project
+|s.n.    |       Name|  Data type|
+|--------|-----------|-----------|
+|1|Federl fund Interest rate| Daily|
+|2|Gold Price|daily/Per ounce|
+|3|S&P 500 data| Daily|
+|4|Euro Exchange rate| Daily|
+
+
 Project Organization
 ------------
 
