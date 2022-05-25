@@ -31,6 +31,8 @@ Instruments use for trading(Top 5 large-cap Cryptos) have used here as our main 
 Data reported time : 04/05/2022, 14:20
 Data source: https://coinmarketcap.com/
 
+# **Final Report with charts and Graphs**
+[CONTRIBUTING.md](https://github.com/dlama001/Final-project-ML4T-large-cap-cryptos-/blob/main/reports/Final_Report.ipynb))
 ---
 
 Macroeconomic variables use for project
