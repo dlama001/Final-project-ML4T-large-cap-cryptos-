@@ -41,6 +41,9 @@ Macroeconomic variables use for project
 |3|S&P 500 data| Daily|
 |4|Euro Exchange rate| Daily|
 
+# **Report and Graphs**
+## **1. For Cardano Cryptocoin**
+ ![ ](Images/![image](https://user-images.githubusercontent.com/70610666/170152704-8fb21d55-b186-4aa9-afbf-9ddc41485778.png))![Uploading image.png…]()
 
 Project Organization
 ------------
