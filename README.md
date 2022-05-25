@@ -81,17 +81,41 @@ We used feature engineering to prepare all the macro-indcators and add additiona
     We applied our model to test data in order to test the returns
 
 ## 4.3. Macro Indicators
-For our macro-indicators we used the top 20 Indicators having a direct effect on each coin from Fred and Yahoo Finance
+       For our macro-indicators we used the top 20 Indicators having a direct effect on each coin from Fred and Yahoo Finance
 ### 1. For Binance  
-<img width="514" alt="bnb" src="https://user-images.githubusercontent.com/70610666/170155846-799d723f-ed20-4411-a34e-fa2d1ad09323.png">
+                  <img width="514" alt="bnb" src="https://user-images.githubusercontent.com/70610666/170155846-799d723f-ed20-4411-a34e-fa2d1ad09323.png">
 ### 2. For Bitcoin
-<img width="531" alt="btc" src="https://user-images.githubusercontent.com/70610666/170155885-f2c46b19-e759-48dd-a98a-cc7c59e77449.png">
-### 3. For 
-<img width="533" alt="btjdj" src="https://user-images.githubusercontent.com/70610666/170155904-76ca2079-0133-4a4a-b514-fbfe393eb2f9.png">
+                  <img width="531" alt="btc" src="https://user-images.githubusercontent.com/70610666/170155885-f2c46b19-e759-48dd-a98a-cc7c59e77449.png">
+### 3. For Ethereum
+                  <img width="533" alt="btjdj" src="https://user-images.githubusercontent.com/70610666/170155904-76ca2079-0133-4a4a-b514-fbfe393eb2f9.png">
 ### 4. For Cardano
-<img width="516" alt="eht" src="https://user-images.githubusercontent.com/70610666/170155938-d5468c6d-cc5f-46c8-af2b-27340a9ae92d.png">
+                   <img width="516" alt="eht" src="https://user-images.githubusercontent.com/70610666/170155938-d5468c6d-cc5f-46c8-af2b-27340a9ae92d.png">
 ### 5. For USD-Coin
-<img width="524" alt="usdt" src="https://user-images.githubusercontent.com/70610666/170155974-18c352b0-4786-4c9a-b2f3-421bd125ece0.png">
+                   <img width="524" alt="usdt" src="https://user-images.githubusercontent.com/70610666/170155974-18c352b0-4786-4c9a-b2f3-421bd125ece0.png">
+
+
+
+
+# 5. Result and findings
+## 5.1. ADA Performance 
+        ![image](https://user-images.githubusercontent.com/70610666/170156960-9478dec0-a733-49d1-8738-5ef9362c6ace.png)
+        ![image](https://user-images.githubusercontent.com/70610666/170157157-e046e5fb-ed3c-4049-a722-22e9bfb06756.png)
+
+## 5.2. BNB Performance 
+          ![image](https://user-images.githubusercontent.com/70610666/170157192-9b10d166-19e9-4afc-8cf4-882b8e330fbf.png)
+          ![image](https://user-images.githubusercontent.com/70610666/170157213-f2a3af75-e92d-44d9-9a7b-4669f886012f.png)
+
+## 5.3. Bitcoin Performance 
+           ![image](https://user-images.githubusercontent.com/70610666/170157263-e313bae4-fbb2-4592-9b56-2beba14fa458.png)
+           ![image](https://user-images.githubusercontent.com/70610666/170157291-620c70b9-021f-4c64-8e81-962eb6a7ab9a.png)
+## 5.4 Ethereum Performance 
+           ![image](https://user-images.githubusercontent.com/70610666/170157340-2a984d1d-cf37-4cf8-8977-0039b9d30eae.png)
+           ![image](https://user-images.githubusercontent.com/70610666/170157373-626aae56-aeda-4836-8f95-70345be0b08e.png)
+
+## 5.5. USDC-coin performance 
+            ![image](https://user-images.githubusercontent.com/70610666/170157425-d40b1073-9d87-419e-90cb-9da57094eae4.png)
+            ![image](https://user-images.githubusercontent.com/70610666/170157446-8fb4684c-261e-48ae-8340-9d43a98169d6.png)
+
 
 
 
