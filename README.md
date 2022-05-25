@@ -31,8 +31,6 @@ Instruments use for trading(Top 5 large-cap Cryptos) have used here as our main 
 Data reported time : 04/05/2022, 14:20
 Data source: https://coinmarketcap.com/
 
-# **Final Report with charts and Graphs**
-[CONTRIBUTING.md](https://github.com/dlama001/Final-project-ML4T-large-cap-cryptos-/blob/main/reports/Final_Report.ipynb))
 ---
 
 Macroeconomic variables use for project
@@ -43,9 +41,9 @@ Macroeconomic variables use for project
 |3|S&P 500 data| Daily|
 |4|Euro Exchange rate| Daily|
 
-# **Report and Graphs**
-## **1. For Cardano Cryptocoin**
- ![ ](Images/![image](https://user-images.githubusercontent.com/70610666/170152704-8fb21d55-b186-4aa9-afbf-9ddc41485778.png))![Uploading image.png…]()
+---
+Final Reports[Final_Report.md](https://github.com/dlama001/Final-project-ML4T-large-cap-cryptos-/files/8767056/Final_Report.md)
+
 
 Project Organization
 ------------
