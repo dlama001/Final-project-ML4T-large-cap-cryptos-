@@ -26,6 +26,7 @@ Instruments use for trading(Top 5 large-cap Cryptos) have used here as our main 
 |3	 |ADA-ETH	      | Cardano	    |
 |4	 |BNB	          | Binance Coin|	
 |5	 |USDC	          | USD Coin	|
+
 Data reported time : 04/05/2022, 14:20
 Data source: https://coinmarketcap.com/
 
