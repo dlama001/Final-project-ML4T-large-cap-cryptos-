@@ -82,15 +82,15 @@ We used feature engineering to prepare all the macro-indcators and add additiona
 
 ## 4.3. Macro Indicators
 For our macro-indicators we used the top 20 Indicators having a direct effect on each coin from Fred and Yahoo Finance
-### 1. 
+### 1. For Binance  
 <img width="514" alt="bnb" src="https://user-images.githubusercontent.com/70610666/170155846-799d723f-ed20-4411-a34e-fa2d1ad09323.png">
-### 2.
+### 2. For Bitcoin
 <img width="531" alt="btc" src="https://user-images.githubusercontent.com/70610666/170155885-f2c46b19-e759-48dd-a98a-cc7c59e77449.png">
-### 3. 
+### 3. For 
 <img width="533" alt="btjdj" src="https://user-images.githubusercontent.com/70610666/170155904-76ca2079-0133-4a4a-b514-fbfe393eb2f9.png">
-### 4.
+### 4. For Cardano
 <img width="516" alt="eht" src="https://user-images.githubusercontent.com/70610666/170155938-d5468c6d-cc5f-46c8-af2b-27340a9ae92d.png">
-### 5.
+### 5. For USD-Coin
 <img width="524" alt="usdt" src="https://user-images.githubusercontent.com/70610666/170155974-18c352b0-4786-4c9a-b2f3-421bd125ece0.png">
 
 
